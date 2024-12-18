@@ -2,7 +2,7 @@
  
 ### Hi there 👋 
 
-### I'm Guan kaisi， a master student at Gaoling School of Artificial Intelligence， RUC.
+### I'm Guan kaisi, a master student at Gaoling School of Artificial Intelligence, RUC.
 ```
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
